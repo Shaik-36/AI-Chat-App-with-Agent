@@ -13,7 +13,7 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 - **Secure Authentication**: JWT-based token authentication
 - **Responsive Design**: Mobile-first design with Tailwind CSS
 
-## 🏗️ Architecture
+## 🏗️ Architecture Design
 
 ### Backend (`nodejs-ai-assistant/`)
 
